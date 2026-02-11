@@ -60,9 +60,9 @@ spring.jpa.database-platform=org.hibernate.dialect.PostgreSQLDialect
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/daniel-sd03">
+      <a href="https://github.com/joaovfarah">
         <sub>
-          <b>Daniel Sodré</b>
+          <b>João Victor Farah</b>
         </sub>
       </a>
     </td>
